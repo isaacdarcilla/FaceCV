@@ -1,0 +1,16 @@
+C:\Users\Donz\Downloads\FaceRecProOV\bin\Release\MultiFaceRec.exe.config
+C:\Users\Donz\Downloads\FaceRecProOV\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Donz\Downloads\FaceRecProOV\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+C:\Users\Donz\Downloads\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\Donz\Desktop\Face Reco\bin\Release\MultiFaceRec.exe.config
+C:\Users\Donz\Desktop\Face Reco\bin\Release\MultiFaceRec.exe
+C:\Users\Donz\Desktop\Face Reco\bin\Release\MultiFaceRec.pdb
+C:\Users\Donz\Desktop\Face Reco\bin\Release\Emgu.CV.xml
+C:\Users\Donz\Desktop\Face Reco\bin\Release\Emgu.CV.UI.xml
+C:\Users\Donz\Desktop\Face Reco\bin\Release\Emgu.Util.xml
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Release\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Release\MultiFaceRec.exe
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Release\MultiFaceRec.pdb

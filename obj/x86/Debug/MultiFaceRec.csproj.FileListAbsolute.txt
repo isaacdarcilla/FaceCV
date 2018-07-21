@@ -1,0 +1,143 @@
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Donz\Downloads\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Donz\Downloads\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Donz\Downloads\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Donz\Downloads\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Donz\Downloads\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Donz\Downloads\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Donz\Downloads\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Donz\Downloads\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Donz\Downloads\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Donz\Downloads\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Donz\Downloads\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\Donz\Desktop\Face Reco\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Donz\Desktop\Face Reco\bin\Debug\MultiFaceRec.exe
+C:\Users\Donz\Desktop\Face Reco\bin\Debug\MultiFaceRec.pdb
+C:\Users\Donz\Desktop\Face Reco\bin\Debug\Emgu.CV.xml
+C:\Users\Donz\Desktop\Face Reco\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Donz\Desktop\Face Reco\bin\Debug\Emgu.Util.xml
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Donz\Desktop\Face Reco\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\New folder (3)\Face Reco\bin\Debug\MultiFaceRec.exe.config
+E:\New folder (3)\Face Reco\obj\x86\Debug\MultiFaceRec.exe
+E:\New folder (3)\Face Reco\obj\x86\Debug\MultiFaceRec.pdb
+E:\New folder (3)\Face Reco\bin\Debug\MultiFaceRec.exe
+E:\New folder (3)\Face Reco\bin\Debug\MultiFaceRec.pdb
+E:\New folder (3)\Face Reco\bin\Debug\Emgu.CV.xml
+E:\New folder (3)\Face Reco\bin\Debug\Emgu.CV.UI.xml
+E:\New folder (3)\Face Reco\bin\Debug\Emgu.Util.xml
+E:\New folder (3)\Face Reco\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\New folder (3)\Face Reco\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\New folder (3)\Face Reco\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\New folder (3)\Face Reco\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\MultiFaceRec.exe.config
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.exe
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.pdb
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\MultiFaceRec.exe
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\MultiFaceRec.pdb
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\Emgu.CV.xml
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\Emgu.CV.UI.xml
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\Emgu.Util.xml
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\MultiFaceRec.exe.config
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.exe
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.pdb
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\MultiFaceRec.exe
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\MultiFaceRec.pdb
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\Emgu.CV.xml
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\Emgu.CV.UI.xml
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\bin\Debug\Emgu.Util.xml
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Face Reco\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\Projects\4.0\kashipara.com_face-recognition-using-emgu-cv-zip\Face Recognition Using Emgu.CV\bin\Debug\MultiFaceRec.exe.config
+E:\Projects\4.0\kashipara.com_face-recognition-using-emgu-cv-zip\Face Recognition Using Emgu.CV\obj\x86\Debug\MultiFaceRec.exe
+E:\Projects\4.0\kashipara.com_face-recognition-using-emgu-cv-zip\Face Recognition Using Emgu.CV\obj\x86\Debug\MultiFaceRec.pdb
