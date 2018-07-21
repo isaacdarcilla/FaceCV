@@ -20,5 +20,8 @@ OpenCV (Open Source Computer Vision Library) is an open source computer vision a
 
 ![OpenCV](https://www.researchgate.net/profile/Aleksandra_Krolak/publication/252458755/figure/fig1/AS:298195692343297@1448106801398/The-basic-structure-of-the-OpenCV-library.png)
 
-### Open CV License [BSD License](https://en.wikipedia.org/wiki/BSD_license)
-### Emgu CV License [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.txt)
+Open CV License [BSD License](https://en.wikipedia.org/wiki/BSD_license)
+Emgu CV License [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.txt)
+
+Contributions are welcome!
+
